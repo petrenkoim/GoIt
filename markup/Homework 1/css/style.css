@@ -1,0 +1,24 @@
+header {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    font-size: medium;
+    margin: 5% 10%;
+}
+figure {
+    text-align: center;
+}
+.position {
+    border-bottom: grey solid thin;
+}
+.contact {
+    border-top: grey solid thin;
+}
+.profile {
+    margin-top: 5%;
+}
+.feedback {
+    border-top: grey solid thin;
+}
