@@ -1,0 +1,83 @@
+li {
+    display: inline-block;
+}
+.name {
+    margin: 3% 5%;
+    font-size: 350%;
+}
+.list1 {
+    position: relative;
+    overflow: hidden;
+    margin: 3% 5%;
+    background-color: #696969;
+}
+li .list1 {
+    float: left;
+}
+.menu1 a {
+    display: block;
+    font-size: large;
+    color: white;
+    text-align: center;
+    padding: 10px 70px;
+    text-decoration: none;
+}
+.menu1 a:hover {
+    background-color: black;
+}
+.list2 {
+    float: left;
+    list-style-type: none;
+    margin-top: 1%;
+    margin-left: 5%;
+    padding: 0;
+    width: 270px;
+    font-size: medium;
+    text-align: left;
+    background-color: white;
+    border: solid black 1px;
+}
+.menu2 a {
+    display: block;
+    color: #000;
+    padding: 20px 60px;
+    text-decoration: none;
+}
+.menu2 a:hover {
+    background-color: darkgrey;
+}
+figure {
+    float: right;
+    border: 1px solid #000000;
+    margin-right: 5%;
+    margin-top: 1%;
+}
+.text {
+    clear: both;
+    margin-left: 400px;
+    margin-right: 70px;
+    font-size: large;
+}
+.list3 {
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    margin: 3% 5%;
+    background: #e7e7e7;
+}
+.menu3 a {
+    display: block;
+    font-size: medium;
+    color: black;
+    text-align: center;
+    padding: 10px 60px;
+    text-decoration: none;
+}
+.menu3 a:hover {
+    text-decoration-style: dashed;
+    color: black;
+}
+.rights {
+    font-size: small;
+    margin-top: 3%;
+    margin-right: 1%;
+}
